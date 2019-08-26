@@ -39,5 +39,9 @@
 1. git clone https://github.com/i-love-linux/Sort_C.git 克隆代码到本地
 2. 打开过程如下：(Visual C++ 6.0)
 
-![img](https://github.com/i-love-linux/Sort_Csharp/blob/master/image/1.png)
+![img](https://github.com/i-love-linux/Sort_C/blob/master/image/1.png)
+
+![img](https://github.com/i-love-linux/Sort_C/blob/master/image/2.png)
+
+![img](https://github.com/i-love-linux/Sort_C/blob/master/image/3.png)
 
